@@ -1,4 +1,3 @@
-const languagesJson = require('./languages.json');
 const admin = require('firebase-admin');
 const db = admin.firestore();
 
